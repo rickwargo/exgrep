@@ -1,11 +1,11 @@
 exgrep
 ======
 
-Grep for Excel files
+**Grep** for **Excel** files
 
-This command line utility will perform a regular expression search on many
-Excel objects. It is only meant to be run from Windows as it manipulates the
-Excel COM object through Win32ole automation. 
+This command line utility will perform a *regular expression* search on many
+Excel objects. It is only meant to be run from *Windows* as it manipulates the
+Excel COM object through **Win32ole automation**. 
 
 It decomposes all of the significant objects in Excel into text streams and
 applies regex matching to find items of interest. It is also capable of 
